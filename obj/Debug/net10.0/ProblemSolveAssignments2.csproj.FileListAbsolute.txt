@@ -1,0 +1,14 @@
+C:\ProblemSolveAssignments2\bin\Debug\net10.0\ProblemSolveAssignments2.exe
+C:\ProblemSolveAssignments2\bin\Debug\net10.0\ProblemSolveAssignments2.deps.json
+C:\ProblemSolveAssignments2\bin\Debug\net10.0\ProblemSolveAssignments2.runtimeconfig.json
+C:\ProblemSolveAssignments2\bin\Debug\net10.0\ProblemSolveAssignments2.dll
+C:\ProblemSolveAssignments2\bin\Debug\net10.0\ProblemSolveAssignments2.pdb
+C:\ProblemSolveAssignments2\obj\Debug\net10.0\ProblemSolveAssignments2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProblemSolveAssignments2\obj\Debug\net10.0\ProblemSolveAssignments2.AssemblyInfoInputs.cache
+C:\ProblemSolveAssignments2\obj\Debug\net10.0\ProblemSolveAssignments2.AssemblyInfo.cs
+C:\ProblemSolveAssignments2\obj\Debug\net10.0\ProblemSolveAssignments2.csproj.CoreCompileInputs.cache
+C:\ProblemSolveAssignments2\obj\Debug\net10.0\ProblemSolveAssignments2.dll
+C:\ProblemSolveAssignments2\obj\Debug\net10.0\refint\ProblemSolveAssignments2.dll
+C:\ProblemSolveAssignments2\obj\Debug\net10.0\ProblemSolveAssignments2.pdb
+C:\ProblemSolveAssignments2\obj\Debug\net10.0\ProblemSolveAssignments2.genruntimeconfig.cache
+C:\ProblemSolveAssignments2\obj\Debug\net10.0\ref\ProblemSolveAssignments2.dll
