@@ -20,18 +20,17 @@ namespace Main
             boolArray[0] = int.TryParse(input1, out int output1);
             boolArray[1] = int.TryParse(input2, out int output2);
             //최소 공배수를 구하기 위해서 처음 입력받은 값들은 따로 A,B에 저장 
-            //(output1과 output2는 반복문에서 숫자가 달라질거이므로.)
-            
+            //(output1과 output2는 반복문에서 숫자가 달라질거이므로 나누어서 나머지 계산 땜에..)
             int A = output1;
             int B = output2;
-            int remainder = 1;  
+            int remainder = 0;  
             //형변환 실패하였을때를 대비하기 위한 예외처리
             if(boolArray[0] == false || boolArray[1] == false || boolArray[0] == false && boolArray[1] == false)
             {
                 Console.WriteLine("숫자 입력이 잘못되었습니다.");
                 return;
             }
-            for(int i = 0; remainder != 0; i++)
+            for(int i = 0; A % B !=0; i++) 
             {
                 //유클리드 호제법을 사용했을때 r = A % B , A % B 나머지가 B % r 나머지와 같다. 
                 remainder = A % B;
